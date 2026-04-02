@@ -30,6 +30,38 @@ export const viewport = {
   maximumScale: 5,
   userScalable: true,
 
+  keywords: [
+    "empower retirement",
+    "empower login",
+    "empower 401k login",
+    "empower retirement account",
+    "empower sign in",
+    "empower retirement plan",
+    "empower financial freedom",
+    "empower retirement services",
+    "empower account access",
+    "empower retirement management",
+    "empower retirement login",
+    "empower",
+    "empowermyretirement login",
+    "empower retirement login portal",
+    "empower retirement account login",
+    "empower retirement plan login",
+    "empower retirement services login",
+    "empower retirement management login",
+    "empower financial freedom login",
+    "empower account access login",
+    "empowerretirement",
+  ],
+
+  openGraph: {
+    type: 'empower-retirement',
+    url: "https://empower-myretirement-benefits.com
+",
+    siteName: "empower-retirement",
+  }
+
+
 
 
 }
